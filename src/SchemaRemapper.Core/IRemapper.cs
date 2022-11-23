@@ -2,7 +2,7 @@
 
 namespace JsonRemapper.Core
 {
-    public interface IRemap
+    public interface IRemapper
     {
 
     }
