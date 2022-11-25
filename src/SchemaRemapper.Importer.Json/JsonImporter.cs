@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using SchemaRemapper.Core.Importer;
 
 namespace SchemaRemapper.Importer.Json
