@@ -1,4 +1,4 @@
-﻿using AutoFixture;
+using AutoFixture;
 using DeepEqual.Syntax;
 using SchemaRemapper.Core;
 using SchemaRemapper.Core.Schema;
